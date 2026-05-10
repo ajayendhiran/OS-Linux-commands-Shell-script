@@ -1177,7 +1177,8 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
- 
+ <img width="458" height="315" alt="WhatsApp Image 2026-05-10 at 8 19 38 PM" src="https://github.com/user-attachments/assets/9748f4d8-5ede-4ae3-b14a-34d73d85b8e0" />
+
 
 cat > palindrome.sh
 ```bash
@@ -1206,6 +1207,7 @@ fi
 ```
 ## OUTPUT 
 
+<img width="458" height="99" alt="WhatsApp Image 2026-05-10 at 8 19 40 PM" src="https://github.com/user-attachments/assets/40023663-59a7-4059-b35c-31ffdf4cb194" />
 
 
 # RESULT:
